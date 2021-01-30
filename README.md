@@ -5,3 +5,4 @@ Just another machine learning library
 - Linear Regression
 - Logistic Regression
 - k Nearest Neighbors
+- Neural network
